@@ -29,6 +29,4 @@ Two simple condition :
 * Can Change background color,font Size,show/hide/delay of message.
 * Can Change Mesaages
 
-   ## More details : [Bump Thread Plugin](https://community.mybb.com/thread-231112.html)
-
-
+## More details : [Bump Thread Plugin](https://community.mybb.com/thread-231112.html)
